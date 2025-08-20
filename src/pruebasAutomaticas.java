@@ -1,3 +1,9 @@
+import models.Project;
+import models.Task;
+import models.User;
+import models.UsuarioAdmin;
+import services.TaskManager;
+
 import java.util.*;
 
 public class pruebasAutomaticas {

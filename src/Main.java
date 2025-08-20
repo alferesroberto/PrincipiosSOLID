@@ -1,3 +1,9 @@
+import models.Project;
+import models.Task;
+import models.User;
+import printers.TaskPrinter;
+import services.TaskManager;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
